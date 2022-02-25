@@ -55,7 +55,7 @@ body{
     top:0px;
     left:0px;
     right:0px;
-    background-color:black;
+    background-color: #20171b;
     padding-bottom:100vh;
 }
 
@@ -64,13 +64,34 @@ body{
     top:100vh;
     right:0px;
     left:0px;
-    background-color:white;
+    background-color:rgb(236, 232, 253);
     margin-left:5px;
     padding-bottom:100vh;
 }
 
 .mots{
+
     position:inherit;
+    margin-left: 6vw;
+    font-size:5vh;
+}
+
+.descriProjet{
+    position:inherit;
+    color:rgb(2, 39, 87);
+    font-size:1.7vh;
+    text-align: justify;
+    margin-left: 7vw;
+    margin-right: 7vw;
+    top:25vh;
+}
+
+.projets{
+    position:inherit;
+    color:rgb(2, 39, 87);
+    font-size:3vh;
+    margin-left: 7vw;
+    top:17vh;
 }
 
 p{
@@ -79,5 +100,5 @@ p{
 
 h1{
     color:black
-    
+
 }

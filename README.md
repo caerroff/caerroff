@@ -33,8 +33,8 @@
 ### Scripting
 | Framework/Language | Version (when relevant) | Related Project  |
 | :---               | :----:  |            ---:  |
-| Python             | 3+       | Peronsal Projects |
-| Bash             | *      | Peronsal Scripts |
+| Python             | 3+       | Personal Projects |
+| Bash             | *      | Personal Scripts |
 
 ### Low Level
 | Framework/Language | Version (when relevant) | Related Project  |

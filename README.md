@@ -39,5 +39,5 @@
 ### Low Level
 | Framework/Language | Version (when relevant) | Related Project  |
 | :---               | :----:  |            ---:  |
-| C/C++              | C++17    | Personal Projects (ShonenFighter) |
-| x86 ASM            | *        | Bootloader/Arduino projects |
+| C/C++              | C++17    | Personal Projects (ShonenFighter/Arduino) |
+| x86 ASM            | *        | Bootloader |

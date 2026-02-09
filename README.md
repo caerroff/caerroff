@@ -1,9 +1,9 @@
 # Hi there 👋
-- 🔭 I’m currently working on the front-end website of GoldenEye Hotels in Bulgaria.
-- 🌱 I’m currently learning Mobile development
+- 🔭 I’m currently working on the various websites at GoldenEye Hotels in Bulgaria.
+- 🌱 I’m currently learning Go
 - 💬 Ask me about **any** project you find on my repo, or contributions, and I will try my best to explain my code.
 - 📫 How to reach me: [thomas.masin@proton.me](mailto:thomas.masin@proton.me)
-- 🇪🇺 I speak English and French, feel free to communicate in either with me.
+- 🇪🇺 I speak French, English, and Ukrainian. Feel free to communicate in either with me.
 
 ## Technologies
 

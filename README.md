@@ -27,8 +27,15 @@
 ### Production / Server
 | Framework/Language | Version (when relevant) | Related Project  |
 | :---               | :----:  |            ---:  |
-| Docker             | *        | GoldenEye / Gendarmerie |
+| Linux             | Ubuntu/RHEL | All project |
 | Nginx              | *        | All projects    |
+
+### Containerisation
+| Framework/Language | Version (when relevant) | Related Project  |
+| :---               | :----:  |            ---:  |
+| Docker             | *       | All project      |
+| VirtualBox         | *       | Personal projects |
+| KVM/Qemu           | *       | Homelab |
 
 ### Scripting
 | Framework/Language | Version (when relevant) | Related Project  |
